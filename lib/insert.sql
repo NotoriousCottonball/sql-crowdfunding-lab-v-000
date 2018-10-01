@@ -19,3 +19,5 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
   (18, 'Pacha', 5), 
   (19, 'Ena', 24), 
   (20, 'Katie', 24);
+  
+  
